@@ -1,0 +1,19 @@
+﻿year        subject                        winner                                        country                                  category
+----------- ------------------------------ --------------------------------------------- ---------------------------------------- ----------------------------------------
+1994        Literature                     Kenzaburo Oe                                  Japan                                    Linguist
+1994        Economics                      R Selten                                      Germany                                  Economist
+1987        Chemistry                      Donald J                                      USA                                      Scientist
+1987        Chemistry                      Jean M Lehn                                   France                                   scientist
+1987        Literature                     Joseph B                                      Russia                                   linguist
+1987        Economics                      Robert Solow                                  USA                                      Economist
+1971        Chemistry                      Gerhard Herzberg                              Germany                                  Scientist
+1971        Literature                     Pabola Neruda                                 Chile                                    Linguist
+1971        Economics                      Simon K                                       Russia                                   Economist
+1970        Literature                     Aleksandr Solzhenitsyn                        Russia                                   Linguist
+1970        chemistry                      Louis Federico Leloi                          France                                   Scientist
+1970        Economics                      Paul Samuelson                                USA                                      Economist
+
+(12 rows affected)
+
+
+Completion time: 2022-09-07T00:07:44.1802039+05:30
