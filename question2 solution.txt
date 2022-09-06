@@ -1,0 +1,8 @@
+﻿winner
+---------------------------------------------
+Aleksandr Solzhenitsyn
+
+(1 row affected)
+
+
+Completion time: 2022-09-06T23:43:20.9901544+05:30
