@@ -1,0 +1,9 @@
+﻿salesman_id name
+----------- --------------------------------------------------
+5001        james hoog
+5002        nail knite
+
+(2 rows affected)
+
+
+Completion time: 2022-09-07T23:29:19.4801730+05:30
